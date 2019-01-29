@@ -1,3 +1,4 @@
 # graph_base_pic_segmentation_analyzing
-asome_comment_for_a_open_c++_code
-精彩的c++代码
+add some_comment_for_a_open_c++_code
+
+这个代码是好多年前别人写的,今天拿来看看.补了点注释方便理解
